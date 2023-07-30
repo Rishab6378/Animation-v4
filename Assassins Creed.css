@@ -1,0 +1,877 @@
+body {
+    margin: 0px;
+    background-color: rgb(19, 19, 19);
+}
+
+.ubisoft {
+    background-color: black;
+    height: 65px;
+    width: 100%;
+}
+
+.logo {
+    width: 110px;
+    border-radius: 40px;
+    margin-left: -20px;
+    margin-bottom: 7px;
+}
+
+.name {
+    width: 100px;
+    margin: 10px 0px 0px -30px;
+    padding: 13px 10px 18px 0px;
+}
+
+.inside {
+    color: gold;
+    background-color: transparent;
+    border-color: transparent;
+    cursor: pointer;
+    float: left;
+}
+
+.game {
+    margin: -55px 0px 0px 220px;
+}
+
+.news {
+    margin: -55px 0px 0px 330px;
+}
+
+.media {
+    margin: -55px 0px 0px 410px;
+}
+
+.james {
+    margin: -55px 0px 0px 490px;
+}
+
+.council {
+    margin: -55px 0px 0px 600px;
+}
+
+.outside {
+    color: black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: gold;
+    border-color: transparent;
+    cursor: pointer;
+    float: left;
+    margin: -66px 0px 0px 1278px;
+    padding: 9px 40px 9px 40px;
+}
+
+.Assassins {
+    background-color: aqua;
+    height: 480px;
+    width: 100%;
+    background-image: url("Heading\ image.jpeg");
+    background-size: cover;
+    margin-bottom: 100px;
+    position: absolute;
+    z-index: 10;
+}
+
+.world {
+    background-color: transparent;
+    height: 56px;
+    width: fit-content;
+    margin: 180px 0px 0px 25%;
+    padding: 0px 10px 0px 10px;
+    color: white;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 3px solid gold;
+    border-left: transparent;
+    border-right: transparent;
+    position: absolute;
+    z-index: 12;
+}
+
+.WATCH {
+    background-color: gold;
+    height: 20px;
+    width: fit-content;
+    position: absolute;
+    z-index: 12;
+    border: 3px solid transparent;
+    margin: 260px 0px 0px 49%;
+    padding: 9px 60px 9px 60px;
+}
+
+.now {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.alone {
+    margin: 480px 0px 0px 0px;
+    background-color: black;
+    height: 730px;
+    width: 1519px;
+    border: 3px solid black;
+    box-shadow: 0px 0px 30px 7px black;
+    background-image: url("Starts.jpg");
+    background-size: cover;
+    position: relative;
+    z-index: 9;
+}
+
+
+.yoga {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+    background-color: transparent;
+    margin: 543px 0px 0px 40px;
+    padding: 0px 10px 0px 20px;
+    border: 3px solid gold;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+}
+
+.egypt {
+    background-color: blueviolet;
+    height: 762px;
+    width: 1519px;
+    background-image: url("eagle.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+.ancient {
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 430px;
+    position: absolute;
+    z-index: 20;
+    margin: 580px 0px 0px 68%;
+    border: 2px solid gold;
+    border-left: transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+}
+
+.tall {
+    margin-top: 80px;
+    margin-bottom: 60px;
+}
+
+.info {
+    color: gold;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 0px 30px 0px;
+}
+
+.expr {
+    color: white;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+
+.tombs {
+    color: white;
+    font-size: 20px;
+    font-weight: lighter;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0px 0px 0px;
+}
+
+.zero {
+    background-color: brown;
+    height: 530px;
+    width: 33.33%;
+    float: left;
+}
+
+.one {
+    background-color: aqua;
+    height: 530px;
+    width: 33.33%;
+    background-image: url("country\ to\ discover.jpg");
+    background-size: cover;
+    position: absolute;
+}
+
+.two {
+    background-color: silver;
+    height: 530px;
+    width: 33.33%;
+    position: absolute;
+    opacity: 0.3;
+}
+
+.three {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    margin: 100px 0px 0px 100px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.four {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 270px;
+    margin: 140px 0px 0px 140px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.five {
+    color: gold;
+    font-size: xx-large;
+    font-weight: bold;
+    width: 300px;
+    margin: 155px 0px 0px 90px;
+    position: absolute;
+}
+
+.six {
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 320px;
+    margin: 230px 0px 0px 100px;
+    position: absolute;
+    text-shadow: -6px 2px 3px black;
+}
+
+.seven {
+    color: black;
+    background-color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 80px 10px 80px;
+    position: absolute;
+    text-decoration: none;
+    margin: 370px 0px 300px 110px;
+}
+
+.A {
+    background-color: blue;
+    height: 530px;
+    width: 33.33%;
+    background-image: url("embrance.jpg");
+    background-size: cover;
+    position: absolute;
+}
+
+.C {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    margin: 100px 0px 0px 135px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.D {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 270px;
+    margin: 140px 0px 0px 110px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.G {
+    color: black;
+    background-color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 40px 10px 40px;
+    position: absolute;
+    text-decoration: none;
+    margin: 395px 0px 300px 110px;
+}
+
+.m1 {
+    background-color: blue;
+    height: 530px;
+    width: 33.33%;
+    background-image: url("A\ new\ stroy.jpg");
+    background-size: cover;
+    position: absolute;
+}
+
+.m3 {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    margin: 100px 0px 0px 125px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.mold {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 300px;
+    margin: 140px 0px 0px 136px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.m4 {
+    color: white;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 270px;
+    margin: 180px 0px 0px 155px;
+    position: absolute;
+    text-shadow: 6px 2px 3px black;
+}
+
+.m5 {
+    color: gold;
+    font-size: xx-large;
+    font-weight: bold;
+    width: 300px;
+    margin: 195px 0px 0px 115px;
+    position: absolute;
+}
+
+.m6 {
+    color: white;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 300px;
+    margin: 270px 0px 0px 125px;
+    position: absolute;
+    text-shadow: -6px 2px 3px black;
+}
+
+.m7 {
+    color: black;
+    background-color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 80px 10px 80px;
+    position: absolute;
+    text-decoration: none;
+    margin: 430px 0px 300px 150px;
+}
+
+.null {
+    background-color: rgb(19, 19, 19);
+    height: 430px;
+    width: 100%;
+    margin: 590px 0px 0px 0px;
+}
+
+.tower {
+    color: white;
+    font-size: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 80px 0px 0px 25%;
+}
+
+.trailer {
+    color: white;
+    font-size: 30px;
+    width: 1200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 32px 0px 0px 12%;
+}
+
+.color {
+    font-size: 80px;
+    color: darkgoldenrod;
+}
+
+.dive {
+    background-color: transparent;
+    height: 700px;
+    width: 100%;
+}
+
+.flutter {
+    background-color: white;
+    height: 550px;
+    width: 60%;
+    margin: 40px 0px 0px 30px;
+    background-image: url("Starts.jpg");
+    background-size: cover;
+    position: absolute;
+    border: 2px solid darkgoldenrod;
+    border-bottom: transparent;
+    border-right: transparent;
+}
+
+.forther {
+    background-color: aqua;
+    height: 550px;
+    width: 60%;
+    margin: 75px 0px 0px 70px;
+    background-image: url("A\ full\ country.jpeg");
+    background-size: cover;
+    position: absolute;
+    z-index: 1;
+    border: 2px solid darkgoldenrod;
+    border-right: transparent;
+    border-top: transparent;
+    border-left: transparent;
+}
+
+.pptx {
+    background-color: #211f1f;
+    height: 370px;
+    width: 40%;
+    margin: 310px 0px 300px 55%;
+    position: absolute;
+    z-index: 5;
+    border: 2px solid darkgoldenrod;
+    border-top: transparent;
+    border-right: transparent;
+    border-bottom: transparent;
+}
+
+.rtx {
+    background-color: aqua;
+    height: 380px;
+    width: 40%;
+    margin: 260px 0px 300px 58%;
+    background-image: url("https://wallpapercave.com/wp/wp2572543.jpg");
+    background-size: cover;
+    position: absolute;
+    z-index: 5;
+    border: 2px solid darkgoldenrod;
+    border-bottom: transparent;
+    border-left: transparent;
+}
+
+.wrt {
+    color: white;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 444px;
+    margin: 70px 0px 0px 55px;
+}
+
+.ott {
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 540px;
+    margin: 15px 0px 0px 54px;
+}
+
+.dolor {
+    color: white;
+}
+
+.lpw {
+    width: 412px;
+    position: absolute;
+    z-index: 15;
+    margin: -78px 0px 300px 60px;
+}
+
+.vibe {
+    background-color: transparent;
+    height: 700px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+.fortnight {
+    background-color: #211f1f;
+    height: 370px;
+    width: 40%;
+    margin: 247px 0px 0px 30px;
+    position: absolute;
+    z-index: 5;
+    border: 2px solid darkgoldenrod;
+    border-right: transparent;
+    border-bottom: transparent;
+}
+
+.culture {
+    background-color: aqua;
+    height: 380px;
+    width: 40%;
+    margin: 287px 0px 300px 70px;
+    background-image: url("combat.jpg");
+    background-size: cover;
+    position: absolute;
+    z-index: 6;
+}
+
+.sst {
+    color: white;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 475px;
+    margin: 70px 0px 0px 55px;
+    text-shadow: 8px 0px 2px black;
+}
+
+.dull {
+    font-size: 80px;
+    color: darkred;
+}
+
+.tsp {
+    color: white;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 540px;
+    margin: 15px 0px 0px 54px;
+    text-shadow: 8px 0px 2px black;
+}
+
+.omj {
+    background-color: white;
+    height: 550px;
+    width: 60%;
+    margin: 0px 0px 300px 35%;
+    background-image: url("Starts.jpg");
+    background-size: cover;
+    position: absolute;
+}
+
+.jj {
+    background-color: aqua;
+    height: 550px;
+    width: 60%;
+    margin: 40px 0px 300px 38%;
+    background-image: url("Rebuild\ combat.jpg");
+    background-size: cover;
+    position: absolute;
+    z-index: 1;
+    border: 2px solid darkgoldenrod;
+    border-left: transparent;
+    border-bottom: transparent;
+}
+
+
+.legal {
+    background-color: transparent;
+    height: 915px;
+    width: 1519px;
+    margin-top: 80px;
+}
+
+.ultron {
+    width: 25%;
+    float: left;
+    margin-left: 144px;
+}
+
+.version {
+    width: 50%;
+    float: left;
+    margin: 487px 0px 0px -380px;
+    border: 2px solid darkgoldenrod;
+    border-right: transparent;
+    border-top: transparent;
+}
+
+.neuron {
+    width: 57%;
+    float: left;
+    margin: 0px 0px 0px -379px;
+    border: 3px solid darkgoldenrod;
+    border-bottom: transparent;
+    border-left: transparent;
+}
+
+.mega {
+    width: 487px;
+    height: 427px;
+    float: left;
+}
+
+.Readmore {
+    background-color: aqua;
+    height: 684px;
+    width: 100%;
+    margin: 90px 0px 0px 0px;
+    z-index: 2;
+    background-image: url("https://th.bing.com/th/id/R.b8414fd6cf0573f8d86c3d8dc7183e04?rik=HYgdPRWH8vQQ6w&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fK0HCxt0.jpg&ehk=3OdT%2fHjlxJ%2f08TjGkoc9qNk7IYOPzwyDeGZt5OzqFMA%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    box-shadow: 0px 0px 100px 100px black;
+}
+
+.mira {
+    background-color: transparent;
+    height: 350px;
+    width: 30%;
+    margin: 50px 10px 0px 67%;
+    border: 3px solid gold;
+    border-bottom: transparent;
+    border-left: transparent;
+    position: absolute;
+}
+
+.range {
+    background-color: transparent;
+    height: 290px;
+    width: 25%;
+    margin: 330px 0px 0px 50px;
+    border: 3px solid gold;
+    border-top: transparent;
+    border-right: transparent;
+    position: absolute;
+}
+
+.assin {
+    width: 50%;
+    position: absolute;
+    margin-left: 50px;
+    margin: 100px 0px 0px 100px;
+    z-index: 5;
+}
+
+.table {
+    margin: 180px 0px 0px 942px;
+    position: absolute;
+}
+
+.total {
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gold;
+}
+
+.and {
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.dec {
+    color: white;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.laxus {
+    padding: 10px 35px 10px 35px;
+    background-color: gold;
+    text-decoration: none;
+    color: black;
+}
+
+.text {
+    color: gold;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    position: absolute;
+    margin: 40px 0px 0px 670px;
+}
+
+.filled {
+    color: white;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 70%;
+    margin: 50px 0px 50px 17%;
+}
+
+.ola {
+    font-size: 50px;
+    color: gold;
+}
+
+.terrible {
+    background-color: transparent;
+    height: 450px;
+    width: 80%;
+    margin: 30px 10% 30px 10%;
+}
+
+.t1 {
+    background-color: antiquewhite;
+    width: 33%;
+    height: 225px;
+    display: inline-block;
+    background-image: url("terrible1.png");
+    background-size: cover;
+
+}
+
+.t2 {
+    background-color: red;
+    width: 33%;
+    height: 225px;
+    display: inline-block;
+    background-image: url("terrible2.png");
+    background-size: cover;
+}
+
+.t3 {
+    background-color: brown;
+    width: 33%;
+    height: 225px;
+    display: inline-block;
+    background-image: url("terrible3.png");
+    background-size: cover;
+}
+
+.pg1 {
+    background-color: transparent;
+    height: 185px;
+    width: 33%;
+    color: white;
+    font-size: 20px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px 10px 10px 10px;
+    width: 380px;
+}
+
+.pg2 {
+    background-color: transparent;
+    height: 185px;
+    width: 33%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px 0px 0px 5px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+    width: 380px;
+}
+
+.pg3 {
+    background-color: transparent;
+    height: 185px;
+    width: 33%;
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin: 0px 0px 0px 5px;
+    padding: 10px 10px 10px 10px;
+    width: 380px;
+}
+
+.bother {
+    background-color: transparent;
+    height: 762px;
+    width: 97%;
+    margin: 100px 1% 0px 1%;
+    position: relative;
+}
+
+.loot {
+    background-color: red;
+    background-image: url("embrance.jpg");
+    background-size: cover;
+    position: absolute;
+    opacity: 0.5;
+    z-index: 4;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.pot {
+    background-color: red;
+    background-image: url("assassins1.jpg");
+    background-size: cover;
+    display: inline-block;
+    position: absolute;
+    left: 1190px;
+    opacity: 0.5;
+    z-index: 4;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.thirse {
+    background-color: aqua;
+    position: absolute;
+    background-image: url("assassins2.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    left: 200px;
+    opacity: 0.8;
+    z-index: 5;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.sun {
+    background-color: aqua;
+    position: absolute;
+    background-image: url("assassins3.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 100px;
+    left: 400px;
+    opacity: 0.9;
+    z-index: 6;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.arj {
+    background-color: orange;
+    position: absolute;
+    background-image: url("assassins4.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 150px;
+    left: 600px;
+    opacity: 1;
+    z-index: 8;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.jay {
+    background-color: orange;
+    position: absolute;
+    background-image: url("assassins5.jpg");
+    background-size: cover;
+    position: absolute;
+    top: 100px;
+    right: 375px;
+    opacity: 0.9;
+    z-index: 6;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.timing {
+    background-color: blue;
+    position: absolute;
+    background-image: url("assassins6.png");
+    background-size: cover;
+    position: absolute;
+    top: 50px;
+    right: 180px;
+    opacity: 0.8;
+    z-index: 5;
+    box-shadow: 0px 0px 10px 3px black;
+}
+
+.non {
+    width: 20%;
+    height: 500px;
+}
